@@ -14,4 +14,4 @@
 
 ### Tutorial structure
 
-<img src="Images/Flow.png" width="1000">
+![Flow](https://user-images.githubusercontent.com/78901478/201545270-624fe7a4-0225-4bb2-8b07-3d8b57cec981.png)
